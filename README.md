@@ -7,7 +7,7 @@ It includes hands-on examples, theoretical summaries, and best practices across 
 > **Note:** This is a living document and will be continuously updated as I learn and grow in the field.
 
 Notebooks:
-[🧼 01 - data_preprocessing](https://colab.research.google.com/drive/1kI9awLvtg6GidC3GPGkMS2Jpye6aVbP4?hl=es)
+[🧼 01 - data_preprocessing](https://colab.research.google.com/drive/1kI9awLvtg6GidC3GPGkMS2Jpye6aVbP4?hl=es) \
 [🧭 02 - exploratory_data_analysis](https://colab.research.google.com/drive/1xdStpoMONZ334vKTdnLNV7WQ_HYoLjvm?hl=es)
 [🧪 03 - feature_engineering](https://colab.research.google.com/drive/1fLVoS-uPDhnMRHXLm6gsgo-ZbEKAMUPl?hl=es)
 [🤖 04 - ML_basics](https://colab.research.google.com/drive/10o-TANjt0NNyyUx79iIhPqOqgSkIGmGq?hl=es)
