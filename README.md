@@ -4,7 +4,6 @@ Welcome to this curated collection of essential Data Science and AI engineering 
 
 It includes hands-on examples, theoretical summaries, and best practices across a range of topics, from data preprocessing to model deployment.
 
-> **Note:** This is a living document and will be continuously updated as I learn and grow in the field.
 
 Notebooks: \
 [🧼 01 - data_preprocessing](https://colab.research.google.com/drive/1kI9awLvtg6GidC3GPGkMS2Jpye6aVbP4?hl=es) \
@@ -17,4 +16,5 @@ Notebooks: \
 [📦 08 - mlops](https://colab.research.google.com/drive/1kgJe-Hp4oNWA_MWZK9KJa1pE_dVj3FeC?hl=es) \
 [🛠️ 09 - MLE_tools](https://colab.research.google.com/drive/1rRC4gfyZjphStaDOqKzZPR1LEpWs5rpA?hl=es)
 
+> **Note:** This is a living document and will be continuously updated as I learn and grow in the field.
 
